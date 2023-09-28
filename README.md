@@ -2,7 +2,7 @@
 
 The **eCertificate Generator** is a Python project designed to simplify the process of generating digital certificates for multiple recipients listed in a text file. This tool is useful for creating certificates for events, workshops, courses, or any occasion where you need to distribute certificates to a large number of individuals.
 
-![certificate](https://github.com/mohit-thakur09/eCertificateGenerator/assets/82665617/a2f2f1e4-b271-4a7e-aded-5faa71245d48)
+![certificate](https://github.com/mohit-thakur09/eCertificateGenerator/assets/82665617/e5c1ffb4-0941-4fad-94ce-8e1680a045c7)
 
 
 ## Features
